@@ -22,7 +22,7 @@ window.onload = () => {
       this.canvas.width = this.canvasWidth;
       this.canvas.height = this.canvasHeight;
       this.canvas.style.border = "3px solid grey";
-      this.canvas.style.margin = "100px auto";
+      this.canvas.style.margin = "20px auto";
       this.canvas.style.display = "block";
       this.canvas.style.backgroundColor = "#FCFCFC";
       document.body.appendChild(this.canvas);
